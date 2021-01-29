@@ -10,6 +10,12 @@ public class SpringBootAppApplication {
 		SpringApplication.run(SpringBootAppApplication.class, args);
 		
 		// made some changes here
+		
+		
+		// prioritytask -->(bugfixing)
+		void m22() {		
+		//changes made for HIS-134
+		}
 	}
 
 }
